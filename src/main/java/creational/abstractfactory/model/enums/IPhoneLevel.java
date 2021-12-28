@@ -1,4 +1,4 @@
-package creational.factory.factory;
+package creational.abstractfactory.model.enums;
 
 public enum IPhoneLevel {
     HighEnd,

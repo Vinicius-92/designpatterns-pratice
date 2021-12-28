@@ -1,8 +1,8 @@
 package creational.factory;
 
 import creational.factory.factory.IPhoneFactory;
-import creational.factory.factory.IPhoneLevel;
-import creational.factory.model.IPhoneGen;
+import creational.factory.model.enums.IPhoneLevel;
+import creational.factory.model.enums.IPhoneGen;
 
 public class Client {
     public static void main(String[] args) {

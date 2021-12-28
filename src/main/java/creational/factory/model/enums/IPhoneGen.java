@@ -1,4 +1,4 @@
-package creational.factory.model;
+package creational.factory.model.enums;
 
 public enum IPhoneGen {
     X,

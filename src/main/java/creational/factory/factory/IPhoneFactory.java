@@ -1,6 +1,8 @@
 package creational.factory.factory;
 
 import creational.factory.model.*;
+import creational.factory.model.enums.IPhoneGen;
+import creational.factory.model.enums.IPhoneLevel;
 
 import java.util.InputMismatchException;
 
