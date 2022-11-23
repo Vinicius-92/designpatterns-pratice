@@ -30,7 +30,7 @@ public class MusicService {
 		}
 		System.out.println(String.format("%s is listenning '%s'", 
 				user, song.getMusicFlyweight().getName()));
-		song.listenning();
+		song.listening();
 	}
 	
 	public void report() {

@@ -1,8 +1,8 @@
 package behavioral.chain.process;
 
-import br.com.cod3r.chain.process.service.GenericService;
-import br.com.cod3r.chain.process.service.ProcessContext;
-import br.com.cod3r.chain.process.service.ServicesCatalog;
+import behavioral.chain.process.service.GenericService;
+import behavioral.chain.process.service.ProcessContext;
+import behavioral.chain.process.service.ServicesCatalog;
 
 public class Client {
 
